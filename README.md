@@ -1,7 +1,7 @@
 # TUT27 — Solving Partial Differential Equations (PDEs) with Quantum Computers
 
 [Zhixin Song, Georgia Institute of Technology, USA](https://www.linkedin.com/in/kaminotesf524/) \
-[Spencer Bryngelson, Georgia Institute of Technology, USA](https://cse.gatech.edu/people/spencer-bryngelson)\
+[Spencer Bryngelson, Georgia Institute of Technology, USA](https://cse.gatech.edu/people/spencer-bryngelson)
 
 
 
