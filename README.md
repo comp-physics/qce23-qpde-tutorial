@@ -1,13 +1,13 @@
 # TUT27 — Solving Partial Differential Equations (PDEs) with Quantum Computers
 
-[Zhixin Song, Georgia Institute of Technology, USA](https://www.linkedin.com/in/kaminotesf524/)
+[Zhixin Song, Georgia Institute of Technology, USA](https://www.linkedin.com/in/kaminotesf524/) \
 [Spencer Bryngelson, Georgia Institute of Technology, USA](https://cse.gatech.edu/people/spencer-bryngelson)
 
+\
 
-
- **Date:** Fri, Sep 22, 2023
- **Time:** Between 10:00-14:30 Pacific Time (PDT) — UTC-7 
- **Duration:** 3 hours (2 x 1.5 hours)
+ **Date:** Fri, Sep 22, 2023 \
+ **Time:** Between 10:00-14:30 Pacific Time (PDT) — UTC-7 \
+ **Duration:** 3 hours (2 x 1.5 hours) \
 
 
 
